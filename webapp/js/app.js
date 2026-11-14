@@ -101,7 +101,7 @@ baseMaps["OpenStreetMap"].addTo(map);
 // ============================================================
 const boyacaDataDir = 'datos/15_BOYACÁ/';
 
-const capasboyaca = [
+const capasBoyaca = [
     {
         file: 'Administrativo_P.geojson', label: 'Topónimos administrativos',
         tipo: 'punto', color: '#c62828', radio: 4
