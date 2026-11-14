@@ -303,4 +303,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // Marcador de Tunja (capital de Boyacá)
 const TunjaMarker = L.marker([5.53, -73.35])
     .addTo(map)
-    .bindPopup('<b>Riohacha</b><br>Capital de Boyacá');
+    .bindPopup('<b>Tunja</b><br>Capital de Boyacá');
